@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barreiro14&label=Profile%20views&color=0e75b6&style=flat" alt="barreiro14" /> </p>
 
-- 🔭 I’m currently working on **Contour detection via pixel gradient analysis**
+- 🔭 I’m currently working on **Impedance spectroscopy for small sample sizes**
 
 - 👯 I’m looking to collaborate on **any open source physics or math related software**
 
